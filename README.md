@@ -4,5 +4,4 @@
 ## Dataset reference
 https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
-## Sample image of working app
-![model architecture](snippets\streamlit_lh4.png)
+
